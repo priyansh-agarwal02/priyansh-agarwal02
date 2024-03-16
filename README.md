@@ -2,7 +2,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### 💫 About Me:
-🌱I'm currently learning Web Development.<br>⭐I m an intermediate in Machine Learning.<br>✨I have knowledge of Deep Learning , NLP , Flask , RestAPI<br>📫 Reach me at https://www.linkedin.com/in/priyansh-agarwal02/
+🌱I'm currently working LLM model Projects.<br>⭐I m an intermediate in Machine Learning.<br>✨I have knowledge of Artificial Intelligence, Deep Learning, NLP, Flask, RestAPI<br>📫 Reach me at https://www.linkedin.com/in/priyansh-agarwal02/
 
 [![](https://visitcount.itsvg.in/api?id=pa9526&icon=5&color=12)](https://visitcount.itsvg.in)
 
